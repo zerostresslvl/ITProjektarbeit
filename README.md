@@ -34,9 +34,9 @@ ca. 7 Stunden pro Sprint pro Student
 
 As a user,
 
-1: I want to be able to access the homepage of the website without having to register.
-2: I want to be able to browse through different types of games.
-3: I want to be able to navigate from the games and the homepage back and forth at will.
-4: I want to be able to have global access to the website any time of day.
-5: I want to be able to save my progress on games and continue later on when I comeback to the site.
-6: I want to be able to update my profile picture on the site and change my name.
+1. I want to be able to access the homepage of the website without having to register.
+2. I want to be able to browse through different types of games.
+3. I want to be able to navigate from the games and the homepage back and forth at will.
+4. I want to be able to have global access to the website any time of day.
+5. I want to be able to save my progress on games and continue later on when I comeback to the site.
+6. I want to be able to update my profile picture on the site and change my name.
