@@ -14,9 +14,21 @@ Github
 
 ## Priorisierung der Anforderungen:
 
+| Priorität | Anforderung |
+|-----------|-------------|
+| 🔴 Hoch   | ........... |
+| 🔴 Hoch   | ........... |
+| 🔴 Hoch   | ........... |
+| 🟡 Mittel | ........... |
+| 🟡 Mittel | ........... |
+| 🟢 Niedrig | ...........|
+
+
 ## Aufwandsschätzung:
 50h pro Mitglied.
 Dokumentation:Dokument für die Aufwandsschätzung erstellt worden!
+
+ca. 7 Stunden pro Sprint pro Student
 
 ## Projected User stories for our project:
 
