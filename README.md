@@ -3,7 +3,8 @@ Kollaborationstool:
 Github desktop
 Github
 
-Definition der Anforderungen:
+## Definition der Anforderungen:
+
 1. Selbstrecherche über Art der Spiele, die für die Umsetzung nötig ist
 2. Designvorschau der Website ohne Games(Designsoftware)
 3. Entwicklung der Website  ohne Games(CSS und HTML)
@@ -11,18 +12,13 @@ Definition der Anforderungen:
 5. Games entwickeln
 6. Games mit der WebSeite verbinden
 
+## Priorisierung der Anforderungen:
 
-
-Priorisierung der Anforderungen:
-
-
-
-Aufwandsschätzung:
+## Aufwandsschätzung:
 50h pro Mitglied.
 Dokumentation:Dokument für die Aufwandsschätzung erstellt worden!
 
-
-Projected User stories for our project:
+## Projected User stories for our project:
 
 As a user,
 
