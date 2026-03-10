@@ -1,4 +1,12 @@
 # ITProjektarbeit
+##Gruppe:
+group16
+Gruppenleiterin: Dalae Meshakea
+Projektmitglieder:
+Marvin Widhalm
+Amelie Schuh
+Yosef Moustafa
+Esil Süleyman Safa
 
 ## Kollaborationstool:
 -> Github desktop
