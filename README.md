@@ -1,4 +1,4 @@
-# ITProjektarbeit
+# MinigameHub
 ## Gruppe:
 group16
 Gruppenleiterin: Dalae Meshakea
