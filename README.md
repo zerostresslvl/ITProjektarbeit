@@ -11,7 +11,7 @@ Esil Süleyman Safa
 ## Kollaborationstool:
 -> Github desktop
 -> Github
--> DigitalOcean Droplet (für die Website)
+
 
 ## Definition der Anforderungen:
 
