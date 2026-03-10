@@ -1,7 +1,9 @@
 # ITProjektarbeit
-Kollaborationstool:
-Github desktop
-Github
+
+## Kollaborationstool:
+-> Github desktop
+-> Github
+-> DigitalOcean Droplet (für die Website)
 
 ## Definition der Anforderungen:
 
