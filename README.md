@@ -8,7 +8,7 @@ Yosef Moustafa,
 Esil Süleyman Safa
 
 ## Kollaborationstool:
--> Github desktop
+Github desktop
 -> Github
 
 
