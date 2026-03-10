@@ -31,7 +31,7 @@ Github desktop
 | 🔴 Hoch   | ..... |
 | 🟡 Mittel | Hosting + Domain auf einem externen Server |
 | 🟡 Mittel | Alles was lokal bearbeitet wurde auf dem Domain pushen und hosten |
-| 🟡 Mittel | Fortschritt speicheren |
+| 🟡 Mittel | Fortschritt speichern |
 | 🟡 Mittel | ...... |
 | 🟢 Niedrig | Profil ändern können |
 | 🟢 Niedrig | .... |
