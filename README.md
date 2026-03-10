@@ -16,12 +16,15 @@ Github
 
 | Priorität | Anforderung |
 |-----------|-------------|
-| 🔴 Hoch   | ........... |
-| 🔴 Hoch   | ........... |
-| 🔴 Hoch   | ........... |
-| 🟡 Mittel | ........... |
-| 🟡 Mittel | ........... |
-| 🟢 Niedrig | ...........|
+| 🔴 Hoch   | Recherchieren, welche Spiele gut geeignet wären -> Navigation + Spieleübersicht auf die Website |
+| 🔴 Hoch   | Homepage ohne Registrierung zugänglich |
+| 🔴 Hoch   | Games entwickeln |
+| 🔴 Hoch   | ..... |
+| 🟡 Mittel | Hosting + Domain auf einem externen Server |
+| 🟡 Mittel | Alles was lokal bearbeitet wurde auf dem Domain pushen und hosten |
+| 🟡 Mittel | ...... |
+| 🟢 Niedrig | Profil ändern können |
+| 🟢 Niedrig | .... |
 
 
 ## Aufwandsschätzung:
