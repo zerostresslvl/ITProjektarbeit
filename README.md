@@ -1,6 +1,5 @@
 # MinigameHub
-## Gruppe:
-group16
+## Gruppe 16:
 Gruppenleiterin: Dalae Meshakea
 Projektmitglieder:
 Marvin Widhalm,
